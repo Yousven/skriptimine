@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+# Minu muljed sellest aastast
+#
+#
+echo -n "Minu nimi on Margo Hain, "  # Väljastab ilma reavahetuseta minu ees ja perenime
+echo -n "Ma õpin ISP218 õppegrupis" # Väljastab ilma reavahetuseta minu õppegrupi
+echo -n "Ma olen väga rahul enda valikuga, mulle väga meeldib enda eriala" # väljastab ! ja teeb reavahetuse.
+echo "!" # Väljastab ! reavahega.
+# Väljastab minu muljed sellest aastast.
+#
+# skripti lõpp!
