@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# tervitusskript
+#
+echo -n "Homme on reede, " # väljasta ilma reavahetuseta tere,
+echo -n "Sõbrad" # väljasta ilma reavahetuseta User
+echo "!" # väljasta ! ja tee reavahetus
+#
+# skripti lõpp
