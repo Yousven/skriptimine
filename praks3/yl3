@@ -1,0 +1,4 @@
+#!/bin/bash
+# skripti algus
+echo `hostname` "at" `date +"%H:%M:%S"` `uptime -p` #Väljastab masina nime, kella ja töötamisaja
+# skripti lõpp
