@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+#Skripti algus
+#
+echo -n "Mitu inimest on teie grupis?:"
+read  inimesed #küsib inimeste arvu sisendit
+echo -n "Mitu kohta on ühes bussis?:"
+read kohad #küsib kohtade arvu sisendit
+hah2=`expr $inimesed / $kohad` #arvutab
+hah1=`expr $inimesed % $kohad` #arvutab
+echo "Bussis on $hah1 täidetud kohta ja maha jääb $hah2 inimest!"
+#skripti lõpp
