@@ -1,17 +1,11 @@
 #!/bin/bash
 #skripti algus
-echo "Mitu rida? "
-read i
-echo "Mitu tärni reas? "
-read j
-for (( f = 1; f <= $i; f++ ))
+for (( i = 1; i <= 5; f++ ))
    do
-    echo -n $f". "
-       for (( g = 1; g <= $j; g++ ))
+echo -n "$i."
+       for (( g = 1; g <= 5; g++ ))
        do
        echo -n "*"
-    done
-    echo ""
 done
-echo -n $i". "
 echo ""
+done
