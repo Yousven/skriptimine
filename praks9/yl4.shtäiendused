@@ -1,0 +1,13 @@
+#!/bin/bash
+#skripti algus
+echo -n "Mitu rida soovid? "
+read ridadearv
+for (( j = 1; j <= $ridadearv; j++))
+do
+echo -n $j". "
+for (( i = $ridadearv; i >= $j; i-- ))
+do
+  echo -n "*"
+done
+  echo ""
+done
