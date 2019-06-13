@@ -1,9 +1,2 @@
-#!/bin/bash
-#
-# skript kuupäeva väljastamine.
-#
-#skript algus
-echo "Today is " `date +"%A, %B %dv %Y"` #Väljastab tänase kuupäeva.
-echo "Time is "`date +"%H:%M"` #Väljastab hetke kellaja
-cal #Väljasstab hetke kalendri kuu
-# skripti lõpp
+MIDA KURADIT SA SPIKERDAD :(.
+HAHA SINA JÄÄD LOLLIKS!!!
